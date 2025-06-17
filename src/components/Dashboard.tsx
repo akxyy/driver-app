@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Package, Clock, CheckCircle, TrendingUp, User, LogOut, Home, List } from 'lucide-react';
 import { Order, OrderStatus, User as UserType } from '../types';
 import { mockOrders } from '../data/mockOrders';
