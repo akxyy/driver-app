@@ -91,12 +91,6 @@ export default function Login({ onLogin, error }: LoginProps) {
               </div>
             )}
 
-            <div className="bg-blue-50 border-2 border-blue-200 rounded-2xl p-4">
-              <p className="text-blue-800 text-sm font-semibold mb-2">Demo Credentials:</p>
-              <p className="text-blue-700 text-sm">Username: <span className="font-mono">driverdemo</span></p>
-              <p className="text-blue-700 text-sm">Password: <span className="font-mono">123456</span></p>
-            </div>
-
             <button
               type="submit"
               disabled={isLoading}
