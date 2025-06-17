@@ -1,0 +1,16 @@
+{
+    "short_name": "DriverApp",
+    "name": "Driver App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/done/materialicons/48dp/1x/baseline_done_black_48dp.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      }
+    ]
+  }
+  
